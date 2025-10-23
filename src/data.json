@@ -1,0 +1,114 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "type": "Credit",
+      "name": "Apple",
+      "description": "Card Number Used",
+      "amount": 14.06,
+      "percent": 3,
+      "status": "Pending",
+      "authorizedUser": "Diana",
+      "date": "2025-09-25"
+    },
+    {
+      "id": 2,
+      "type": "Payment",
+      "name": "Payment",
+      "description": "Top-up",
+      "amount": 174.0,
+      "percent": 0,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-23"
+    },
+    {
+      "id": 3,
+      "type": "Credit",
+      "name": "IKEA",
+      "description": "Round Rock, TX",
+      "amount": 21.61,
+      "percent": 2,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-10-01"
+    },
+    {
+      "id": 4,
+      "type": "Credit",
+      "name": "Target",
+      "description": "Cedar Park, TX",
+      "amount": 73.58,
+      "percent": 2,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-29"
+    },
+    {
+      "id": 5,
+      "type": "Credit",
+      "name": "Amazon",
+      "description": "Books",
+      "amount": 12.49,
+      "percent": 1,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-28"
+    },
+    {
+      "id": 6,
+      "type": "Payment",
+      "name": "Payment",
+      "description": "Auto payment",
+      "amount": 200.0,
+      "percent": 0,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-27"
+    },
+    {
+      "id": 7,
+      "type": "Credit",
+      "name": "Starbucks",
+      "description": "Coffee",
+      "amount": 6.25,
+      "percent": 3,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-26"
+    },
+    {
+      "id": 8,
+      "type": "Credit",
+      "name": "Uber",
+      "description": "Ride",
+      "amount": 18.5,
+      "percent": 2,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-24"
+    },
+    {
+      "id": 9,
+      "type": "Credit",
+      "name": "Best Buy",
+      "description": "Electronics",
+      "amount": 89.99,
+      "percent": 2,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-22"
+    },
+    {
+      "id": 10,
+      "type": "Credit",
+      "name": "Whole Foods",
+      "description": "Groceries",
+      "amount": 45.3,
+      "percent": 3,
+      "status": "Approved",
+      "authorizedUser": "",
+      "date": "2025-09-21"
+    }
+  ]
+}

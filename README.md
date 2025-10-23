@@ -7,9 +7,7 @@ A minimal React + TypeScript app scaffolded with Vite and tuned for mobile-only 
 
 ## 📱 Screenshots
 
-### Wallet Tab
-
-![Wallet Tab](./screenshots/transaction-list.png)
+![Trasaction List](./screenshots/transaction-list.png)
 
 ### Transaction Detail
 

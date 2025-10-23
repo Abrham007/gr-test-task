@@ -5,6 +5,16 @@ A minimal React + TypeScript app scaffolded with Vite and tuned for mobile-only 
 - Package/folder name: `test-task` (NPM packages can't contain spaces)
 - App title/display name: "test task"
 
+## 📱 Screenshots
+
+### Wallet Tab
+
+![Wallet Tab](./screenshots/transaction-list.png)
+
+### Transaction Detail
+
+![Transaction Detail](./screenshots/transaction-detail.png)
+
 ## Mobile-only behavior
 
 - Viewport is set for mobile devices.
